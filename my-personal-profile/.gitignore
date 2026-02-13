@@ -1,12 +1,12 @@
 # Python
 backend/__pycache__/
 backend/venv/
-backend/.env
+backend/.env-sample
 
 # Node
 frontend/node_modules/
 frontend/build/
-frontend/.env
+frontend/.env-sample
 
 # System
 .DS_Store
